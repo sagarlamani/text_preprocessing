@@ -1,5 +1,5 @@
-from preprocess_sagarlamani import utils 
-__version = '0.0.2'
+from preprocessing_sagarlamani import utils 
+__version = '0.0.3'
 
 def get_wordcounts(x):
 	return utils._get_wordcounts(x)
