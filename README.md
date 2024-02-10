@@ -40,8 +40,8 @@
 
 Install
 
-'pip install git+ssh://git@github.com/sagarlamani/text_preprocessing.git'
+`pip install git+ssh://git@github.com/sagarlamani/text_preprocessing.git`
 
 Uninstall
 
-'pip uninstall text_preprocessing'
+`pip uninstall text_preprocessing`
