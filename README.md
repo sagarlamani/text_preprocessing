@@ -37,3 +37,11 @@
 # preprocess_sagarlamani1
 # preprocess_sagarlamani1
 # preprocess_sagarlamani
+
+Install
+
+'pip install git+ssh://git@github.com/sagarlamani/text_preprocessing.git'
+
+Uninstall
+
+'pip uninstall text_preprocessing'
